@@ -26,7 +26,7 @@ I am passionate about working on Web and Mobile Applications. Particularly in ma
 
 - 💬 Ask me about **Javascript, React, Vue, Node and mongoDB**
 
-- 📫 How to reach me **hey@adarsh.dev**
+- 📫 How to reach me **hey@adarshk.dev**
 
 ---
 
